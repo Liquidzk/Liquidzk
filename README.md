@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://pasteboard.co/rVojktKvrJKj.gif" alt="Banner"></a>
-</p>
+<img src="https://media.giphy.com/media/O1BCi4IB18nSg9mvu2/giphy.gif" style="zoom:67%;" />
+
 
 <h1 align="center">Hi, I'm Liquid</a>!</h1>
 <h1 align="center">Welcome to my GitHub profile~ </h1>
