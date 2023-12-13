@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.giphy.com/media/O1BCi4IB18nSg9mvu2/giphy.gif#pic_center" width = "30%" /></div>
+<div align="center"><img src="https://media.giphy.com/media/O1BCi4IB18nSg9mvu2/giphy.gif" width = "30%" /></div>
 
 
 <h1 align="center">Hi, I'm Liquid</a>!</h1>
