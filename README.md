@@ -10,14 +10,8 @@
 </p>
 
 
-<p align="center">
-  <strong><a href="https://www.edisonlee55.com">Official Website</a></strong> |
-  <strong><a href="https://twitter.com/edisonlee55">Twitter</a></strong> |
-  <strong><a href="https://discord.gg/nYXzaUS">Discord</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/edisonlee55">LinkedIn</a></strong> |
-  <strong><a href="https://www.twitch.tv/edisonlee55">Twitch</a></strong>
-</p>
-<p align="center">❤ I'm currently Software Engineering at the UESTC.</p>
+
+<p align="center">📕 I'm currently Software Engineering at the UESTC. 📕</p>
 
 
 
