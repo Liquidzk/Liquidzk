@@ -12,7 +12,7 @@
          <a href="https://github.com/Liquidzk"><img src="https://github-readme-stats.vercel.app/api?username=Liquidzk&show_icon=true&theme=buefy&hide_border=true" align="left" alt="Liquidzk's github stats">
       </td>
       <td align="center">
-         <a href="https://github.com/Liquidzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liquidzk&layout=compact&langs_count=10&theme=buefy&hide_border=true" align="left" >
+         <a href="https://github.com/Liquidzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liquidzk&layout=compact&langs_count=10&hide_border=true" align="left" >
       </td>
     </tr>
   </table>
