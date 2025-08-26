@@ -23,7 +23,7 @@
 
 <p align="center">📕 I'm currently Software Engineering at the UESTC. 📕</p>
 
-<p align="center">📧 Reach me at: 492928615@qq.com 📧</p>
+<p align="center">📧 Reach me at: liquidzk@outlook.com 📧</p>
 
 
 
