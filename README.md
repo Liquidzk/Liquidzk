@@ -5,18 +5,7 @@
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-         <a href="https://github.com/Liquidzk"><img src="https://github-readme-stats.vercel.app/api?username=Liquidzk&show_icon=true&hide_border=true" align="left" alt="Liquidzk's github stats">
-      </td>
-      <td align="center">
-         <a href="https://github.com/Liquidzk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Liquidzk&layout=compact&langs_count=10&hide_border=true" align="left" >
-      </td>
-    </tr>
-  </table>
-</div>
+![Liquidzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquidzk&hide=contribs,prs)
 
 
 
