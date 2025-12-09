@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
 
-![Liquidzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquidzk&hide=contribs,prs)
+[![Liquidzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquidzk)](https://github.com/Liquidzk/github-readme-stats)
 
 
 
@@ -15,13 +15,6 @@
 <p align="center">🔬 Currently MSAI studnet at NTU 🔬</p>
 
 <p align="center">📧 Reach me at: liquidzk@outlook.com 📧</p>
-
-
-
-
-
-
-
 
 
 <!--
