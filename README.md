@@ -5,7 +5,7 @@
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
 
-[![Liquidzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquidzk)](https://github.com/Liquidzk/github-readme-stats)
+[![Liquidzk's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liquidzk)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
