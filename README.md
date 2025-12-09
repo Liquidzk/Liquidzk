@@ -5,9 +5,18 @@
 <h1 align="center">Welcome to my GitHub profile~ </h1>
 
 
-[![Liquidzk's GitHub stats](https://github-readme-stats-iota-khaki-85.vercel.app/api?username=Liquidzk)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+         <a href="https://github.com/Liquidzk"><img src="https://github-readme-stats-iota-khaki-85.vercel.app/api?username=Liquidzk&show_icon=true&hide_border=true" align="left" alt="Liquidzk's github stats">
+      </td>
+      <td align="center">
+         <a href="https://github.com/Liquidzk"><img src="https://github-readme-stats-iota-khaki-85.vercel.app/api/top-langs/?username=Liquidzk&layout=compact&langs_count=10&hide_border=true" align="left" >
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <p align="center">📕 Undergraduate at UESTC. 📕</p>
