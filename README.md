@@ -21,7 +21,9 @@
 
 
 
-<p align="center">📕 I'm currently Software Engineering at the UESTC. 📕</p>
+<p align="center">📕 Undergraduate at UESTC. 📕</p>
+
+<p align="center">🔬 Currently MSAI studnet at NTU 🔬</p>
 
 <p align="center">📧 Reach me at: liquidzk@outlook.com 📧</p>
 
