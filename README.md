@@ -8,7 +8,7 @@
 <img align="right" src="./github-metrics.svg" width="48%" alt="Liquidzk's GitHub metrics" />
 
 <p align="center">
-  <img src="https://media.giphy.com/media/O1BCi4IB18nSg9mvu2/giphy.gif" width="24%" alt="Welcome animation" />
+  <img src="https://media.giphy.com/media/O1BCi4IB18nSg9mvu2/giphy.gif" width="30%" alt="Welcome animation" />
   <br /><br />
   <a href="https://qm.qq.com/q/zNSaNp9big"><img src="https://img.shields.io/badge/QQ-white?logo=qq&amp;labelColor=white&amp;color=%231EBAFC" alt="QQ" /></a>
   <a href="mailto:liquidzk@outlook.com"><img src="https://img.shields.io/badge/-Email-0078D4?style=flat&amp;logo=microsoftoutlook&amp;logoColor=white" alt="Email" /></a>
