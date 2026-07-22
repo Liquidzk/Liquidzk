@@ -10,7 +10,7 @@
 <br />
 
 <!-- Generated daily by .github/workflows/metrics.yml -->
-<img align="right" src="./github-metrics.svg" width="57%" alt="Liquidzk's GitHub metrics" />
+<img align="right" src="./github-metrics.svg" width="48%" alt="Liquidzk's GitHub metrics" />
 
 <p align="center">
   <br /><br />
@@ -20,11 +20,11 @@
   <a href="mailto:liquidzk@outlook.com">liquidzk@<wbr />outlook.com</a>
   <br /><br /><br />
   <a href="https://github.com/Liquidzk">
-    <img src="https://github-readme-stats-iota-khaki-85.vercel.app/api?username=Liquidzk&amp;show_icons=true&amp;hide_border=true" width="38%" alt="Liquidzk's GitHub stats" />
+    <img src="https://github-readme-stats-iota-khaki-85.vercel.app/api?username=Liquidzk&amp;show_icons=true&amp;hide_border=true" width="45%" alt="Liquidzk's GitHub stats" />
   </a>
   <br /><br /><br />
   <strong>Thanks for visiting!</strong><br /><br />
-  <img src="https://counter.seku.su/cmoe?name=Liquidzk&amp;theme=r34" width="32%" alt="Liquidzk profile visitor counter" />
+  <img src="https://counter.seku.su/cmoe?name=Liquidzk&amp;theme=r34" width="40%" alt="Liquidzk profile visitor counter" />
 </p>
 
 <br clear="both" />
