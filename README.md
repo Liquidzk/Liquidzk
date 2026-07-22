@@ -20,7 +20,7 @@
   <a href="mailto:liquidzk@outlook.com">liquidzk@<wbr />outlook.com</a>
   <br /><br /><br />
   <a href="https://github.com/Liquidzk">
-    <img src="https://github-readme-stats-iota-khaki-85.vercel.app/api?username=Liquidzk&amp;show_icons=true&amp;hide_border=true" width="45%" alt="Liquidzk's GitHub stats" />
+    <img src="./stats.svg" width="45%" alt="Liquidzk's GitHub stats" />
   </a>
   <br /><br /><br />
   <strong>Thanks for visiting!</strong><br /><br />

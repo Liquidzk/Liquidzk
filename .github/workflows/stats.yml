@@ -1,0 +1,40 @@
+name: GitHub Stats
+
+on:
+  schedule:
+    # 08:45 every day in Asia/Singapore (00:45 UTC).
+    - cron: "45 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-stats
+  cancel-in-progress: true
+
+jobs:
+  github-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Check out the profile repository
+        uses: actions/checkout@v6
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&border_color=83054d&border_radius=8&title_color=83054d&icon_color=83054d&text_color=434d58
+          path: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.svg
+          git diff --cached --quiet && exit 0
+          git commit -m "Update stats.svg - [Skip GitHub Action]"
+          git push
