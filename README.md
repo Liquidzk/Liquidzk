@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:83054d,100:f5a9b8&amp;height=250&amp;section=header&amp;text=Hi%2C%20I%27m%20Liquid%21&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Welcome%20to%20my%20GitHub%20profile%7E&amp;descSize=22&amp;descAlignY=55" width="100%" alt="Hi, I'm Liquid! Welcome to my GitHub profile~" />
+  <img src="./assets/header.svg" width="100%" alt="Hi, I'm Liquid! Welcome to my GitHub profile~" />
 </p>
 
 <!-- Generated daily by .github/workflows/metrics.yml -->
