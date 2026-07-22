@@ -5,35 +5,39 @@
     Hi, I'm Liquid!<br />
     Welcome to my GitHub profile~
   </h1>
-
-  <p>
-    📕 Undergraduate at UESTC<br />
-    🔬 Currently a MSAI student at NTU<br />
-    📧 Reach me at: <a href="mailto:liquidzk@outlook.com">liquidzk@outlook.com</a>
-  </p>
 </div>
 
 <br />
 
-<div align="center">
-  <a href="https://github.com/Liquidzk">
-    <img src="https://github-readme-stats-iota-khaki-85.vercel.app/api?username=Liquidzk&amp;show_icons=true&amp;hide_border=true" alt="Liquidzk's GitHub stats" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Generated daily by .github/workflows/metrics.yml -->
-  <img src="./github-metrics.svg" width="480" alt="Liquidzk's GitHub metrics" />
-</div>
-
-<br />
-
-<div align="center">
-  <h3>Thanks for visiting!</h3>
-  <img src="https://counter.seku.su/cmoe?name=Liquidzk&amp;theme=r34" alt="Liquidzk profile visitor counter" />
-</div>
+<table width="100%">
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <p>
+        📕 Undergraduate at UESTC<br />
+        🔬 Currently a MSAI student at NTU<br />
+        📧 Reach me at:<br />
+        <a href="mailto:liquidzk@outlook.com">liquidzk@<wbr />outlook.com</a>
+      </p>
+    </td>
+    <td width="58%" align="center" valign="top" rowspan="3">
+      <!-- Generated daily by .github/workflows/metrics.yml -->
+      <img src="./github-metrics.svg" width="480" alt="Liquidzk's GitHub metrics" />
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <a href="https://github.com/Liquidzk">
+        <img src="https://github-readme-stats-iota-khaki-85.vercel.app/api?username=Liquidzk&amp;show_icons=true&amp;hide_border=true" alt="Liquidzk's GitHub stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="42%" align="center" valign="middle">
+      <h3>Thanks for visiting!</h3>
+      <img src="https://counter.seku.su/cmoe?name=Liquidzk&amp;theme=r34" alt="Liquidzk profile visitor counter" />
+    </td>
+  </tr>
+</table>
 
 <!--
 **Liquidzk/Liquidzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
