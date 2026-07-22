@@ -10,7 +10,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/O1BCi4IB18nSg9mvu2/giphy.gif" width="24%" alt="Welcome animation" />
   <br /><br />
-  <img src="https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&amp;logo=tencentqq&amp;logoColor=white" alt="QQ" />
+  <a href="https://wpa.qq.com/msgrd?v=3&amp;uin=492928615&amp;site=qq&amp;menu=yes">
+    <img src="https://img.shields.io/badge/QQ-492928615-12B7F5?style=flat-square&amp;logo=tencentqq&amp;logoColor=white" alt="QQ: 492928615" />
+  </a>
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
