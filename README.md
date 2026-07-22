@@ -1,11 +1,6 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/O1BCi4IB18nSg9mvu2/giphy.gif" width="30%" alt="Welcome animation" />
-
-  <h1>
-    Hi, I'm Liquid!<br />
-    Welcome to my GitHub profile~
-  </h1>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:83054d,100:f5a9b8&amp;height=250&amp;section=header&amp;text=Hi%2C%20I%27m%20Liquid%21&amp;fontSize=48&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Welcome%20to%20my%20GitHub%20profile%7E&amp;descSize=22&amp;descAlignY=55" width="100%" alt="Hi, I'm Liquid! Welcome to my GitHub profile~" />
+</p>
 
 <br />
 
