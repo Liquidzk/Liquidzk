@@ -9,35 +9,25 @@
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <p>
-        📕 Undergraduate at UESTC<br />
-        🔬 Currently a MSAI student at NTU<br />
-        📧 Reach me at:<br />
-        <a href="mailto:liquidzk@outlook.com">liquidzk@<wbr />outlook.com</a>
-      </p>
-    </td>
-    <td width="58%" align="center" valign="top" rowspan="3">
-      <!-- Generated daily by .github/workflows/metrics.yml -->
-      <img src="./github-metrics.svg" width="480" alt="Liquidzk's GitHub metrics" />
-    </td>
-  </tr>
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <a href="https://github.com/Liquidzk">
-        <img src="https://github-readme-stats-iota-khaki-85.vercel.app/api?username=Liquidzk&amp;show_icons=true&amp;hide_border=true" alt="Liquidzk's GitHub stats" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="42%" align="center" valign="middle">
-      <h3>Thanks for visiting!</h3>
-      <img src="https://counter.seku.su/cmoe?name=Liquidzk&amp;theme=r34" alt="Liquidzk profile visitor counter" />
-    </td>
-  </tr>
-</table>
+<!-- Generated daily by .github/workflows/metrics.yml -->
+<img align="right" src="./github-metrics.svg" width="57%" alt="Liquidzk's GitHub metrics" />
+
+<p align="center">
+  <br /><br />
+  📕 Undergraduate at UESTC<br />
+  🔬 Currently a MSAI student at NTU<br />
+  📧 Reach me at:<br />
+  <a href="mailto:liquidzk@outlook.com">liquidzk@<wbr />outlook.com</a>
+  <br /><br /><br />
+  <a href="https://github.com/Liquidzk">
+    <img src="https://github-readme-stats-iota-khaki-85.vercel.app/api?username=Liquidzk&amp;show_icons=true&amp;hide_border=true" width="38%" alt="Liquidzk's GitHub stats" />
+  </a>
+  <br /><br /><br />
+  <strong>Thanks for visiting!</strong><br /><br />
+  <img src="https://counter.seku.su/cmoe?name=Liquidzk&amp;theme=r34" width="32%" alt="Liquidzk profile visitor counter" />
+</p>
+
+<br clear="both" />
 
 <!--
 **Liquidzk/Liquidzk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
