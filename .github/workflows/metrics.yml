@@ -1,0 +1,37 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    # 08:15 every day in Asia/Singapore (00:15 UTC).
+    - cron: "15 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-metrics
+  cancel-in-progress: true
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Generate terminal metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Add a repository secret named METRICS_TOKEN containing a
+          # scope-less personal access token for public profile data.
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ github.token }}
+          user: Liquidzk
+          filename: github-metrics.svg
+          template: terminal
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories_forks: yes
+          config_timezone: Asia/Singapore
+          plugin_lines: yes
+          plugin_lines_delay: 30
