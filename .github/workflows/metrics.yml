@@ -35,3 +35,6 @@ jobs:
           config_timezone: Asia/Singapore
           plugin_lines: yes
           plugin_lines_delay: 30
+          # vHive contains contributor statistics for a deleted account,
+          # which currently causes the upstream lines plugin to fail.
+          plugin_lines_skipped: Liquidzk/vHive
