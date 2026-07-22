@@ -14,10 +14,13 @@
 
 <p align="center">
   <br /><br />
-  📕 Undergraduate at UESTC<br />
-  🔬 Currently a MSAI student at NTU<br />
-  📧 Reach me at:<br />
-  <a href="mailto:liquidzk@outlook.com">liquidzk@<wbr />outlook.com</a>
+  <img src="https://img.shields.io/badge/-QQ-12B7F5?style=flat-square&amp;logo=tencentqq&amp;logoColor=white" alt="QQ" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <br />
+  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
   <br /><br /><br />
   <a href="https://github.com/Liquidzk">
     <img src="./stats.svg" width="45%" alt="Liquidzk's GitHub stats" />
