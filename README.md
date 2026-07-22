@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg?v=3" width="100%" alt="Hi, I'm Liquid! Welcome to my GitHub profile~" />
+  <img src="./assets/profile-header.svg" width="100%" alt="Hi, I'm Liquid! Welcome to my GitHub profile~" />
 </p>
 
 <!-- Generated daily by .github/workflows/metrics.yml -->
