@@ -14,7 +14,7 @@
   <a href="https://www.uestc.edu.cn/"><img src="https://img.shields.io/badge/-UESTC-005BAC?style=flat&amp;logoColor=white" alt="UESTC" /></a>
   <br /><br />
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat&amp;logo=rust&amp;logoColor=white" alt="Rust" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&amp;logo=go&amp;logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&amp;logo=c&amp;logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" alt="Linux" />
   <br /><br /><br />
