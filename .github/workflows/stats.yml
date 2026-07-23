@@ -28,7 +28,14 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&border_color=83054d&border_radius=8&title_color=83054d&icon_color=83054d&text_color=434d58
           path: stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Validate stats card
+        run: |
+          if grep -Eq "Something went wrong|Resource not accessible by integration" stats.svg; then
+            echo "::error::Stats generation returned an error SVG."
+            exit 1
+          fi
 
       - name: Commit updated card
         run: |
