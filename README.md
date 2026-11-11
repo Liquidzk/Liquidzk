@@ -27,7 +27,9 @@
 
 <p align="center">
   <strong>Thanks for visiting!</strong><br /><br />
-  <img src="https://counter.seku.su/cmoe?name=Liquidzk&amp;theme=r34" width="40%" alt="Liquidzk profile visitor counter" />
+  <a href="https://github.com/journey-ad/Moe-Counter">
+    <img src="https://count.getloli.com/@Liquidzk?theme=moebooru" width="40%" alt="Liquidzk profile visitor counter — Moe Counter" />
+  </a>
 </p>
 
 <!--
